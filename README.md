@@ -4,7 +4,7 @@ git clone https://github.com/tiya001/test_task.git
 ```
 ## Cоздание виртуального окружения:
 ```
-cd python -m venv venv
+python -m venv venv
 ```
 ```
 source venv/bin/activate
